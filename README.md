@@ -17,7 +17,7 @@
 Meta
 ----
 Author:
-   * **Edna Guantai** - *Initial work* - [ednaguantai](<github url link>)
+   * **Edna Guantai** - *Initial work* - [ednaguantai](<https://github.com/Edna1996/Week-One-Code-Challenge>)
 Status:
     maintained, and is currently in development
 Version:
